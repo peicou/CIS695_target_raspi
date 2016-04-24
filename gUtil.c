@@ -1,3 +1,5 @@
+/* Author: Francisco Sandoval */
+
 #include "gUtil.h"
 
 void *TCPServer (void *param)
